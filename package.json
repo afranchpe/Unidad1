@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1"
+  },
+  "name": "nodejs-curso",
+  "version": "1.0.0",
+  "description": "Un curso de nodejs",
+  "main": "moduloColoresConsole.js",
+  "scripts": {
+    "start": "node ./3.modulosNPMJS/moduloColoresConsole.js",
+    "desarrollo": "node ./3.modulosNPMJS/moduloServidorNPMnameExpress.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "Ari",
+  "license": "ISC"
+}
